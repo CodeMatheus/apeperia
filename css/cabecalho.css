@@ -1,0 +1,24 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.container {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.item-lista {
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}

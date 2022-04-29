@@ -1,0 +1,40 @@
+.sobre {
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.text-sobre {
+    margin-right: 25px;
+    max-width: 800px;
+}
+
+.titulo-sobre {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #4F4C4C;
+    margin-bottom: 10px;
+}
+
+.img-sobre {
+    height: 500px;
+    object-fit: cover;
+}
+.p-sobre {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.icon-sobre {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px 0;
+}

@@ -1,0 +1,31 @@
+.footer {
+    background-color: #333333;
+    padding-top: 30px;
+}
+
+.redes-sociais {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link-sociais {
+    margin-left: 30px;
+}
+
+.lista-footer {
+    display: flex;
+}
+
+.lista-footer li {
+    list-style: none;
+    margin-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.lista-footer li a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Open Sans';
+}

@@ -1,0 +1,56 @@
+.institucional-flex {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.text-institucional {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.video-institucional {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.p-institucional {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    color: #666666;
+    margin-bottom: 20px;
+}
+
+.endereco {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    color: #666666;
+}
+
+.tel {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    color: #666666;
+    margin: 20px 0;
+}
+
+.link-email {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 35px;  
+    color: #0084FF;
+}

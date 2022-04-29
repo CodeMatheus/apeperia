@@ -1,0 +1,45 @@
+.destaques {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #DFE3F5;;
+}
+
+.titulo-destaques {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #4F4C4C;
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.p-destaques {
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.btn-destaques {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    color: #B72E2E;
+    background-color: transparent;
+    padding: 10px 60px;
+    border: 1px solid #B72E2E;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}

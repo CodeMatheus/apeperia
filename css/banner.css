@@ -1,0 +1,46 @@
+.banner {
+    height: 400px;
+    background-image: url('../img/bg-intro.jpg');
+    background-size: cover;
+}
+
+.main-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo-banner {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 52px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.p-banner {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    max-width: 600px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.btn-banner {
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    padding: 10px 105px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+}
