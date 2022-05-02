@@ -7,7 +7,7 @@
 
 .text-sobre {
     margin-right: 25px;
-    max-width: 800px;
+    max-width: 50%;
 }
 
 .titulo-sobre {
@@ -23,6 +23,7 @@
 .img-sobre {
     height: 500px;
     object-fit: cover;
+    max-width: 50vw;
 }
 .p-sobre {
     font-family: 'Open Sans';
@@ -36,5 +37,5 @@
 .icon-sobre {
     display: flex;
     justify-content: space-evenly;
-    margin: 10px 0;
+    margin: 40px 0;
 }

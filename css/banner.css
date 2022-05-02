@@ -1,5 +1,5 @@
 .banner {
-    height: 400px;
+    
     background-image: url('../img/bg-intro.jpg');
     background-size: cover;
 }
@@ -43,4 +43,5 @@
     color: white;
     font-family: 'Open Sans', sans-serif;
     cursor: pointer;
+    margin-bottom: 50px;
 }

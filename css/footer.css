@@ -15,6 +15,7 @@
 
 .lista-footer {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .lista-footer li {

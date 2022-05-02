@@ -20,7 +20,6 @@
 .p-destaques {
     margin-top: 10px;
     margin-bottom: 30px;
-
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
@@ -42,4 +41,10 @@
     border-radius: 5px;
     cursor: pointer;
     margin-bottom: 20px;
+}
+
+.img-destaques {
+    margin-top: 20px;
+    object-fit: cover;
+    max-width: 800px;
 }
